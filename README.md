@@ -1,3 +1,4 @@
+![Profile Photo](https://avatars.githubusercontent.com/u/70850359?v=4)
 # Chatresh Ramasai Gudi
 
 ## About
