@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning javascript
 
 ## My Skills
-![Python](https://www.python.org/static/community_logos/python-logo-generic.svg | width = 50)
+<img src = https://www.python.org/static/community_logos/python-logo-generic.svg width = 25% height = 25%>
 - Java
 - Javascript
 - HTML
