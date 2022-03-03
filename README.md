@@ -7,11 +7,13 @@
 - 🌱 I’m currently learning javascript
 
 ## My Skills
+<p float="left">
 <img src = "Icons/python.svg" width = 50px height = 50px>
 <img src = "Icons/java.svg" width = 50px height = 50px>
 <img src = "Icons/javascript.svg" width = 50px height = 50px>
 <img src = "Icons/html.svg" width = 50px height = 50px>
 <img src = "Icons/CSS.svg" width = 50px height = 50px>
+</p>
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/chatresh-ramasai-gudi-887198230)              
