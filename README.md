@@ -16,11 +16,11 @@
 </p>
 
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/chatresh-ramasai-gudi-887198230)              
-- [Google Developer](https://g.dev/Chatresh)
-- [FreeCodeCamp](https://www.freecodecamp.org/ChatreshGudi)
-- [Behance](https://www.behance.net/chatresramasai)
-- [Dribble](https://dribbble.com/ChatreshGudi)
+<a href = "https://www.linkedin.com/in/chatresh-ramasai-gudi-887198230"><img src= "Icons/linkedin.svg" width = 50px height = 50px></a>
+<a href = "https://g.dev/Chatresh"><img src= "Icons/google.svg" width = 50px height = 50px></a>
+<a href = "https://www.freecodecamp.org/ChatreshGudi"><img src= "Icons/fcc.svg" width = 50px height = 50px></a>
+<a href = "https://www.behance.net/chatresramasai"><img src= "Icons/behance.svg" width = 50px height = 50px></a>
+<a href = "https://dribbble.com/ChatreshGudi"><img src= "Icons/dribbble.svg" width = 50px height = 50px></a>
 
 <!---
 ChatreshGudi/ChatreshGudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
