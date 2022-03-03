@@ -7,11 +7,11 @@
 - 🌱 I’m currently learning javascript
 
 ## My Skills
-<img src = https://www.python.org/static/community_logos/python-logo-generic.svg width = 25% height = 25%>
-- Java
-- Javascript
-- HTML
-- CSS
+<img src = "Icons/python.svg" width = 50px height = 50px>
+<img src = "Icons/java.svg" width = 50px height = 50px>
+<img src = "Icons/javascript.svg" width = 50px height = 50px>
+<img src = "Icons/html.svg" width = 50px height = 50px>
+<img src = "Icons/CSS.svg" width = 50px height = 50px>
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/chatresh-ramasai-gudi-887198230)              
