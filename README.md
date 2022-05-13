@@ -16,7 +16,7 @@
 </p>
 
 ## Contact Me
-<a href = "https://www.linkedin.com/in/chatresh-ramasai-gudi-887198230"><img src= "Icons/linkedin.svg" width = 50px height = 50px></a>
+<a href = "www.linkedin.com/in/ChatreshGudi"><img src= "Icons/linkedin.svg" width = 50px height = 50px></a>
 <a href = "https://g.dev/Chatresh"><img src= "Icons/google.svg" width = 50px height = 50px></a>
 <a href = "https://www.freecodecamp.org/ChatreshGudi"><img src= "Icons/fcc.svg" width = 50px height = 50px></a>
 <a href = "https://www.behance.net/chatresramasai"><img src= "Icons/behance.svg" width = 50px height = 50px></a>
